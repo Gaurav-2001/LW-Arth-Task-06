@@ -27,7 +27,7 @@ Amazon Simple Storage Service (Amazon S3) is an object storage service that offe
 </p>
 Amazon CloudFront is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers globally with low latency and high transfer speeds. for more info here
 
-## ***Now Lets Begin:***👉
+## ***Now Lets Begin:*** 👉
 First we will launch an AWS instance. Here I am using a pre-created security group and key-pair although we can create it easily over AWS CLI in just a few commands. you can refer my previous article for this purpose [here](https://gauravpagare2001.medium.com/launching-aws-instance-with-cli-5c46f124bf31)
 
 <p align="center">
@@ -143,4 +143,4 @@ Now when we put our code in the /var/www/html for the client they will receive t
 
 ## ***So now we have we have successfully performed the task 🎖🎖🙌***
 ## ***Thank You For Reading ……***
-## ***Feel Free to Drop any kind of suggestions and queries they are always welcome : [Here](https://www.linkedin.com/in/gaurav-pagare-8b721a193/)***😊
+## ***Feel Free to Drop any kind of suggestions and queries they are always welcome*** : [Here](https://www.linkedin.com/in/gaurav-pagare-8b721a193/)😊
