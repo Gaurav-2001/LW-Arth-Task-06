@@ -142,5 +142,5 @@ Now when we put our code in the /var/www/html for the client they will receive t
 </p>
 
 ## ***So now we have we have successfully performed the task 🎖🎖🙌***
-## ***Thank You For Reading …… ***
+## ***Thank You For Reading ……***
 ## ***Feel Free to Drop any kind of suggestions and queries they are always welcome : [Here](https://www.linkedin.com/in/gaurav-pagare-8b721a193/)***😊
